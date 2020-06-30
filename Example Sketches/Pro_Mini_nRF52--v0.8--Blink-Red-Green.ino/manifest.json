@@ -1,0 +1,18 @@
+{
+    "manifest": {
+        "application": {
+            "bin_file": "Pro_Mini_nRF52--v0.8--Blink-Red-Green.ino.bin",
+            "dat_file": "Pro_Mini_nRF52--v0.8--Blink-Red-Green.ino.dat",
+            "init_packet_data": {
+                "application_version": 4294967295,
+                "device_revision": 65535,
+                "device_type": 82,
+                "firmware_crc16": 15499,
+                "softdevice_req": [
+                    183
+                ]
+            }
+        },
+        "dfu_version": 0.5
+    }
+}
